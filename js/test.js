@@ -525,3 +525,4 @@ document.getElementById('updateButton').addEventListener('click', function() {
     ul.insertAdjacentHTML("afterbegin", text);
   }
 });
+// ブランチ作成後のコメントアウト
